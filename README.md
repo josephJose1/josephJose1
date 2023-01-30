@@ -32,12 +32,6 @@
 <img src="https://img.shields.io/badge/-mongodb-%23061621?style=for-the-badge&logo=mongodb&amp" alt="MONGODB" data-canonical-src="#" style="max-width: 100%;">
 
 <img src="https://img.shields.io/badge/-REDIS%20-%23161f31?style=for-the-badge&logo=redis&amp" alt="redis" data-canonical-src="#" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/-linux-%23333?style=for-the-badge&logo=linux&amp" alt="LINUX" data-canonical-src="#" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-ubuntu-%23333?style=for-the-badge&logo=ubuntu&amp" alt="UBUNTU" data-canonical-src="#" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-Docker-%23384d54?style=for-the-badge&logo=docker&amp" alt="DOCKER" data-canonical-src="#" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-apache%20server-%23cb2138?style=for-the-badge&logo=apache&amp" alt="APACHE" data-canonical-src="#" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-Apache%20Solr%20-%23fff?style=for-the-badge&logo=apachesolr&amp" alt="APACHE SOLR" data-canonical-src="#" style="max-width: 100%;">
 </p>
 
  
@@ -69,7 +63,7 @@
 <img src="https://img.shields.io/badge/-BLAZEMETER-%23cb2138?style=for-the-badge&logo=blazemeter&amp" alt="BLAZEMETER" data-canonical-src="#" style="max-width: 100%;">
 </p>
 
-# Diagramming, code editor and more software skills.
+# Software skills.
 <p>
 <img src="https://img.shields.io/badge/-diagrams.net%20-%23f8f9fa?style=for-the-badge&logo=diagramsdotnet&amp" alt="diagrams net" data-canonical-src="#" style="max-width: 100%;">
 
@@ -81,7 +75,13 @@
 
 <img src="https://img.shields.io/badge/-VirtualBox%20-%230277bd?style=for-the-badge&logo=virtualbox&amp" alt="VIRTUALBOX" data-canonical-src="#" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-Plotly Dash-%23000?style=for-the-badge&logo=plotly&amp" alt="plotly" data-canonical-src="#" style="max-width: 100%;">     
+<img src="https://img.shields.io/badge/-Plotly Dash-%23000?style=for-the-badge&logo=plotly&amp" alt="plotly" data-canonical-src="#" style="max-width: 100%;">  
+<img src="https://img.shields.io/badge/-linux-%23333?style=for-the-badge&logo=linux&amp" alt="LINUX" data-canonical-src="#" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-ubuntu-%23333?style=for-the-badge&logo=ubuntu&amp" alt="UBUNTU" data-canonical-src="#" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Docker-%23384d54?style=for-the-badge&logo=docker&amp" alt="DOCKER" data-canonical-src="#" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-apache%20server-%23cb2138?style=for-the-badge&logo=apache&amp" alt="APACHE" data-canonical-src="#" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Apache%20Solr%20-%23fff?style=for-the-badge&logo=apachesolr&amp" alt="APACHE SOLR" data-canonical-src="#" style="max-width: 100%;">     
+
 </p>
 
 
