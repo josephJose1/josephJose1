@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/-Django-%23092e20?style=for-the-badge&logo=django&amp" alt="DJANGO" data-canonical-src="#" style="max-width: 100%;">     
 <img src="https://img.shields.io/badge/-Flask%20-%23004b6b?style=for-the-badge&logo=flask&amp" alt="FLASK" data-canonical-src="#" style="max-width: 100%;">
 
-
 <img src="https://img.shields.io/badge/-Docker-%23384d54?style=for-the-badge&logo=docker&amp" alt="DOCKER" data-canonical-src="#" style="max-width: 100%;">
        
 <img src="https://img.shields.io/badge/-mysql-%23f29111?style=for-the-badge&logo=mysql&amp" alt="MYSQL" data-canonical-src="#" style="max-width: 100%; display: inline;">
@@ -43,28 +42,36 @@
 <img src="https://img.shields.io/badge/-Plotly Dash-%23000?style=for-the-badge&logo=plotly&amp" alt="plotly" data-canonical-src="#" style="max-width: 100%;">
  
 # Distributed version control system
+<p>
 <img src="https://img.shields.io/badge/-Git%20-%23f0efe7?style=for-the-badge&logo=git&amp" alt="GIT" data-canonical-src="#" style="max-width: 100%;">
 
 <img src="https://img.shields.io/badge/-Github%20-%23f3d776?style=for-the-badge&logo=github&amp" alt="GITHUB" data-canonical-src="#" style="max-width: 100%;">
+</p>
 
 # Cloud Hosting
 
+<p>
 <img src="https://img.shields.io/badge/-heroku-%2379589F?style=for-the-badge&logo=heroku&amp" alt="HEROKU" data-canonical-src="#" style="max-width: 100%;">
 
-
 <img src="https://img.shields.io/badge/-DIGITAL%20OCEAN-%2305628a?style=for-the-badge&logo=digitalocean&amp" alt="DIGITAL OCEAN" data-canonical-src="#" style="max-width: 100%;">
+</p>
 
-# Testing
+# API building and Testing platform
+<p>
+<img src="https://img.shields.io/badge/-Django Rest Framework-%23A30000?style=for-the-badge&logo=django&amp" alt="DRF" data-canonical-src="#" style="max-width: 100%;">       
+     
+<img src="https://img.shields.io/badge/-json%20-%23faf0e6?style=for-the-badge&logo=json&amp" alt="JSON" data-canonical-src="#" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-apache%20jmeter-%23cb2138?style=for-the-badge&logo=apache&amp" alt="APACHE" data-canonical-src="#" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-apache%20jmeter-%23cb2138?style=for-the-badge&logo=apache&amp" alt="APACHE JMETER" data-canonical-src="#" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/-POSTMAN-%23ffb091?style=for-the-badge&logo=postman&amp" alt="POSTMAN" data-canonical-src="#" style="max-width: 100%;">
 
 <img src="https://img.shields.io/badge/-BLAZEMETER-%23cb2138?style=for-the-badge&logo=blazemeter&amp" alt="BLAZEMETER" data-canonical-src="#" style="max-width: 100%;">
-
+</p>
 
 # Security-first diagramming for teams.
 <img src="https://img.shields.io/badge/-diagrams.net%20-%23f8f9fa?style=for-the-badge&logo=diagramsdotnet&amp" alt="diagrams net" data-canonical-src="#" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-json%20-%23faf0e6?style=for-the-badge&logo=json&amp" alt="JSON" data-canonical-src="#" style="max-width: 100%;">
 
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code%20-%23007acc?style=for-the-badge&logo=visualstudiocode&amp" alt="VS CODE" data-canonical-src="#" style="max-width: 100%;">
 
