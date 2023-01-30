@@ -21,7 +21,7 @@
      
 <img src="https://img.shields.io/badge/-Docker-%23384d54?style=for-the-badge&logo=docker&amp" alt="DOCKER" data-canonical-src="#" style="max-width: 100%;">
        
-<img src="https://img.shields.io/badge/-mysql-%23f29111?style=for-the-badge&logo=mysql&amp" alt="MYSQL" data-canonical-src="#" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-mysql-%23f29111?style=for-the-badge&logo=mysql&amp" alt="MYSQL" data-canonical-src="#" style="max-width: 100%; display: inline;">
  
 <img src="https://img.shields.io/badge/-postgresql-%23D6EFFC?style=for-the-badge&logo=postgresql&amp" alt="POSTGRESQL" data-canonical-src="#" style="max-width: 100%;">
  
@@ -63,6 +63,18 @@ https://img.shields.io/badge/-Visual%20Studio%20-%235d438e?style=for-the-badge&l
 
 VIRTUALBOX
 https://img.shields.io/badge/-VirtualBox%20-%230277bd?style=for-the-badge&logo=virtualbox&amp%22%20alt=%22virtualbox%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+FLASK
+https://img.shields.io/badge/-Flask%20-%23004b6b?style=for-the-badge&logo=flask&amp%22%20alt=%22flask%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+GIT
+https://img.shields.io/badge/-Git%20-%23f0efe7?style=for-the-badge&logo=git&amp%22%20alt=%22git%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+GITHUB
+https://img.shields.io/badge/-Github%20-%23f3d776?style=for-the-badge&logo=github&amp%22%20alt=%22github%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+APACHE SOLR
+https://img.shields.io/badge/-Apache%20Solr%20-%23fff?style=for-the-badge&logo=apachesolr&amp%22%20alt=%22apachesolr%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
 
 
 
