@@ -11,9 +11,7 @@
 <img src="https://img.shields.io/badge/-CSS3-%232965f1?style=for-the-badge&logo=CSS3&amp" alt="HTML5" data-canonical-src="#" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-Bootstrap5-%23e5e1ea?style=for-the-badge&logo=bootstrap&amp" alt="BOOTSTRAP4" data-canonical-src="#" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-Bootstrap5-%23712cf9?style=for-the-badge&logo=bootstrap&amp" alt="BOOTSTRAP5" data-canonical-src="#" style="max-width: 100%;">
-
-https://img.shields.io/badge/-react-%23384d54?style=for-the-badge&logo=react&amp REACT
-<img src="" alt="" data-canonical-src="#" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-react-%23384d54?style=for-the-badge&logo=react&amp" alt="REACT" data-canonical-src="#" style="max-width: 100%;">
 
 # Backend Technologies
 
