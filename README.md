@@ -15,29 +15,29 @@
 <img src="https://img.shields.io/badge/-react-%23384d54?style=for-the-badge&logo=react&amp" alt="REACT" data-canonical-src="#" style="max-width: 100%;">
 
 </p>
+
 # Backend Technologies
      
-<img src="https://img.shields.io/badge/-python-%23ffde57?style=for-the-badge&logo=python&amp" alt="PYTHON" data-canonical-src="#" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-Django-%23092e20?style=for-the-badge&logo=django&amp" alt="DJANGO" data-canonical-src="#" style="max-width: 100%;">     
-<img src="https://img.shields.io/badge/-Flask%20-%23004b6b?style=for-the-badge&logo=flask&amp" alt="FLASK" data-canonical-src="#" style="max-width: 100%;">
-       
-<img src="https://img.shields.io/badge/-mysql-%23f29111?style=for-the-badge&logo=mysql&amp" alt="MYSQL" data-canonical-src="#" style="max-width: 100%; display: inline;">
- 
-<img src="https://img.shields.io/badge/-postgresql-%23D6EFFC?style=for-the-badge&logo=postgresql&amp" alt="POSTGRESQL" data-canonical-src="#" style="max-width: 100%;">
- 
-<img src="https://img.shields.io/badge/-sqlite-%23044a64?style=for-the-badge&logo=sqlite&amp" alt="SQLITE" data-canonical-src="#" style="max-width: 100%;">
+<p>
+     <img src="https://img.shields.io/badge/-python-%23ffde57?style=for-the-badge&logo=python&amp" alt="PYTHON" data-canonical-src="#" style="max-width: 100%;">
+     <img src="https://img.shields.io/badge/-Django-%23092e20?style=for-the-badge&logo=django&amp" alt="DJANGO" data-canonical-src="#" style="max-width: 100%;">     
+     <img src="https://img.shields.io/badge/-Flask%20-%23004b6b?style=for-the-badge&logo=flask&amp" alt="FLASK" data-canonical-src="#" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-mongodb-%23061621?style=for-the-badge&logo=mongodb&amp" alt="MONGODB" data-canonical-src="#" style="max-width: 100%;">
- 
-<img src="https://img.shields.io/badge/-REDIS%20-%23161f31?style=for-the-badge&logo=redis&amp" alt="redis" data-canonical-src="#" style="max-width: 100%;">
+     <img src="https://img.shields.io/badge/-mysql-%23f29111?style=for-the-badge&logo=mysql&amp" alt="MYSQL" data-canonical-src="#" style="max-width: 100%; display: inline;">
 
+     <img src="https://img.shields.io/badge/-postgresql-%23D6EFFC?style=for-the-badge&logo=postgresql&amp" alt="POSTGRESQL" data-canonical-src="#" style="max-width: 100%;">
 
- 
+     <img src="https://img.shields.io/badge/-sqlite-%23044a64?style=for-the-badge&logo=sqlite&amp" alt="SQLITE" data-canonical-src="#" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-linux-%23333?style=for-the-badge&logo=linux&amp" alt="LINUX" data-canonical-src="#" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-ubuntu-%23333?style=for-the-badge&logo=ubuntu&amp" alt="UBUNTU" data-canonical-src="#" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-Docker-%23384d54?style=for-the-badge&logo=docker&amp" alt="DOCKER" data-canonical-src="#" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/-apache%20server-%23cb2138?style=for-the-badge&logo=apache&amp" alt="APACHE" data-canonical-src="#" style="max-width: 100%;">
+     <img src="https://img.shields.io/badge/-mongodb-%23061621?style=for-the-badge&logo=mongodb&amp" alt="MONGODB" data-canonical-src="#" style="max-width: 100%;">
+
+     <img src="https://img.shields.io/badge/-REDIS%20-%23161f31?style=for-the-badge&logo=redis&amp" alt="redis" data-canonical-src="#" style="max-width: 100%;">
+
+     <img src="https://img.shields.io/badge/-linux-%23333?style=for-the-badge&logo=linux&amp" alt="LINUX" data-canonical-src="#" style="max-width: 100%;">
+     <img src="https://img.shields.io/badge/-ubuntu-%23333?style=for-the-badge&logo=ubuntu&amp" alt="UBUNTU" data-canonical-src="#" style="max-width: 100%;">
+     <img src="https://img.shields.io/badge/-Docker-%23384d54?style=for-the-badge&logo=docker&amp" alt="DOCKER" data-canonical-src="#" style="max-width: 100%;">
+     <img src="https://img.shields.io/badge/-apache%20server-%23cb2138?style=for-the-badge&logo=apache&amp" alt="APACHE" data-canonical-src="#" style="max-width: 100%;">
+</p>
 
  
 # Distributed version control system
