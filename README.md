@@ -6,7 +6,7 @@
 
 
 # Frontend Technologies
-<img src="" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=323330" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=323330" alt="JavaScript" data-canonical-src="" style="max-width: 100%;">
 HTML5 CSS3 Bootstrap 4 Bootstrap 5
 
 
