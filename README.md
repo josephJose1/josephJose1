@@ -20,8 +20,6 @@
 <img src="https://img.shields.io/badge/-python-%23ffde57?style=for-the-badge&logo=python&amp" alt="PYTHON" data-canonical-src="#" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-Django-%23092e20?style=for-the-badge&logo=django&amp" alt="DJANGO" data-canonical-src="#" style="max-width: 100%;">     
 <img src="https://img.shields.io/badge/-Flask%20-%23004b6b?style=for-the-badge&logo=flask&amp" alt="FLASK" data-canonical-src="#" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/-Docker-%23384d54?style=for-the-badge&logo=docker&amp" alt="DOCKER" data-canonical-src="#" style="max-width: 100%;">
        
 <img src="https://img.shields.io/badge/-mysql-%23f29111?style=for-the-badge&logo=mysql&amp" alt="MYSQL" data-canonical-src="#" style="max-width: 100%; display: inline;">
  
@@ -32,14 +30,15 @@
 <img src="https://img.shields.io/badge/-mongodb-%23061621?style=for-the-badge&logo=mongodb&amp" alt="MONGODB" data-canonical-src="#" style="max-width: 100%;">
  
 <img src="https://img.shields.io/badge/-REDIS%20-%23161f31?style=for-the-badge&logo=redis&amp" alt="redis" data-canonical-src="#" style="max-width: 100%;">
+
+
  
-<img src="https://img.shields.io/badge/-ubuntu-%23333?style=for-the-badge&logo=ubuntu&amp" alt="UBUNTU" data-canonical-src="#" style="max-width: 100%;">
- 
+
 <img src="https://img.shields.io/badge/-linux-%23333?style=for-the-badge&logo=linux&amp" alt="LINUX" data-canonical-src="#" style="max-width: 100%;">
- 
+<img src="https://img.shields.io/badge/-ubuntu-%23333?style=for-the-badge&logo=ubuntu&amp" alt="UBUNTU" data-canonical-src="#" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/-Docker-%23384d54?style=for-the-badge&logo=docker&amp" alt="DOCKER" data-canonical-src="#" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/-apache%20server-%23cb2138?style=for-the-badge&logo=apache&amp" alt="APACHE" data-canonical-src="#" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/-Plotly Dash-%23000?style=for-the-badge&logo=plotly&amp" alt="plotly" data-canonical-src="#" style="max-width: 100%;">
  
 # Distributed version control system
 <p>
@@ -69,7 +68,8 @@
 <img src="https://img.shields.io/badge/-BLAZEMETER-%23cb2138?style=for-the-badge&logo=blazemeter&amp" alt="BLAZEMETER" data-canonical-src="#" style="max-width: 100%;">
 </p>
 
-# Security-first diagramming for teams.
+# Diagram, code editor and more software skill.
+<p>
 <img src="https://img.shields.io/badge/-diagrams.net%20-%23f8f9fa?style=for-the-badge&logo=diagramsdotnet&amp" alt="diagrams net" data-canonical-src="#" style="max-width: 100%;">
 
 
@@ -81,6 +81,10 @@
 <img src="https://img.shields.io/badge/-VirtualBox%20-%230277bd?style=for-the-badge&logo=virtualbox&amp" alt="VIRTUALBOX" data-canonical-src="#" style="max-width: 100%;">
 
 <img src="https://img.shields.io/badge/-Apache%20Solr%20-%23fff?style=for-the-badge&logo=apachesolr&amp" alt="APACHE SOLR" data-canonical-src="#" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/-Plotly Dash-%23000?style=for-the-badge&logo=plotly&amp" alt="plotly" data-canonical-src="#" style="max-width: 100%;">     
+</p>
+
 
 <!---
 josephJose1/josephJose1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
