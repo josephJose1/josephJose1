@@ -37,8 +37,32 @@
 
 <img src="https://img.shields.io/badge/-BLAZEMETER-%23cb2138?style=for-the-badge&logo=blazemeter&amp" alt="BLAZEMETER" data-canonical-src="#" style="max-width: 100%;">
 
+DASH
+https://img.shields.io/badge/-python-%23000?style=for-the-badge&logo=plotly&amp%22%20alt=%22PYTHON%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
 
+HEROKU
+https://img.shields.io/badge/-heroku-%2379589F?style=for-the-badge&logo=heroku&amp%22%20alt=%22heroku%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
 
+DIGITAL OCEAN
+https://img.shields.io/badge/-DIGITAL%20OCEAN-%2305628a?style=for-the-badge&logo=digitalocean&amp%22%20alt=%22heroku%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+redis
+https://img.shields.io/badge/-REDIS%20-%23161f31?style=for-the-badge&logo=redis&amp%22%20alt=%22redis%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+# Security-first diagramming for teams.
+https://img.shields.io/badge/-diagrams.net%20-%23f8f9fa?style=for-the-badge&logo=diagramsdotnet&amp%22%20alt=%22diagramsdotnetu%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+JSON
+https://img.shields.io/badge/-json%20-%23faf0e6?style=for-the-badge&logo=json&amp%22%20alt=%22json%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+VS CODE
+https://img.shields.io/badge/-Visual%20Studio%20Code%20-%23007acc?style=for-the-badge&logo=visualstudiocode&amp%22%20alt=%22visualstudiocode%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+VISUAL STUDIO
+https://img.shields.io/badge/-Visual%20Studio%20-%235d438e?style=for-the-badge&logo=visualstudio&amp%22%20alt=%22visualstudio%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
+
+VIRTUALBOX
+https://img.shields.io/badge/-VirtualBox%20-%230277bd?style=for-the-badge&logo=virtualbox&amp%22%20alt=%22virtualbox%22%20data-canonical-src=%22#%22%20style=%22max-width:%20100%;%22%3E
 
 
 
