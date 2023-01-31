@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... React, MongoDB
 - 💞️ I’m looking to collaborate on ... Big Data Architecture
 - 📫 How to reach me ... 
-<a target='_blank' href='https://www.instagram.com/steveg_joe/'>
+<a href='https://www.instagram.com/steveg_joe/' target='_blank'>
 <img src="https://img.shields.io/badge/-Instagram-%23EBEBEB?style=for-the-badge&logo=instagram&amp" 
      alt="JavaScript" data-canonical-src="#" style="max-width: 100%;">
 </a>
