@@ -146,7 +146,14 @@
 <a href='https://solr.apache.org/' target='_blank'>
 <img src="https://img.shields.io/badge/-Apache%20Solr%20-%23fff?style=for-the-badge&logo=apachesolr&amp" alt="APACHE SOLR" data-canonical-src="#" style="max-width: 100%;">         
 </a>
-
+<a href='https://www.atlassian.com/software/jira' target='_blank'>
+    <img src="https://img.shields.io/badge/-JIRA-%2305628a?style=for-the-badge&logo=jira&amp" alt="JIRA" data-canonical-src="#" style="max-width: 100%;">    
+</a>
+     
+<a href='https://www.jenkins.io/' target='_blank'>
+    <img src="https://img.shields.io/badge/-Jenkins-%23bcbcbc?style=for-the-badge&logo=jenkins&amp" alt="JENKINS" data-canonical-src="#" style="max-width: 100%;">    
+</a>  
+     
 </p>
 
 
