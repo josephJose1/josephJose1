@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josephJose1
 - 👀 I’m interested in ... web application development
-- 🌱 I’m currently learning ... React, MongoDB
+- 🌱 I’m currently learning ... React, Odoo
 - 💞️ I’m looking to collaborate on ... Big Data Architecture
 - 📫 How to reach me ... 
 <a href='https://www.instagram.com/steveg_joe/' target='_blank'>
