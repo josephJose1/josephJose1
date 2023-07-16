@@ -85,6 +85,11 @@
 </a>
 </p>
 
+<a href='https://www.odoo.sh/' target='_blank'>
+<img src="https://img.shields.io/badge/O-0doo.sh-8A2BE2?style=for-the-badge&logo=odoo&amp" alt="Odoo Icon" data-canonical-src="#" style="max-width: 100%;">              
+</a>
+</p>
+
 # API building and Testing platform
 <p>
 <a href='https://www.django-rest-framework.org/' target='_blank'>
